@@ -1,0 +1,8 @@
+
+spring:
+  application:
+    name: Tracking information
+
+aftership:
+  url: "https://api.aftership.com/v4"
+  api-key: "7877b7c0-4610-4aa9-bf24-e8a80d119149"
